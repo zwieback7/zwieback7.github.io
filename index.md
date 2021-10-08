@@ -3,7 +3,7 @@
 #### Faster | Higher | Stronger
 ![Bottled Drink](/images/drink.jpeg)
 
-<button name="buyButton" style="height:200px;width:200px;color:white;background-color:blue;" onclick="alert('Cheers!')">
+<button name="buyButton" style="height:30px;width:200px;" onclick="alert('Cheers!')">
 BUY NOW!
 </button>
 
