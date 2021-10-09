@@ -4,8 +4,8 @@
 
 
 <figure style="display:flex">
-    <img style="width:800px;height:800" src="/images/drink.jpeg">
-    <img style="width:800px;height:800" src="/images/drink2.jpeg">
+    <img style="max-width:50%" src="/images/drink.jpeg">
+    <img style="max-width:50%" src="/images/drink2.jpeg">
 </figure>
 
 
