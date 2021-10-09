@@ -2,7 +2,12 @@
 ### Superpower Energy Drink!
 #### Faster | Higher | Stronger
 
-![Bottled Drink](/images/drink.jpeg) | ![Bottled Drink 2](/images/drink2.jpeg)
+
+| 雁 | 凤 |
+| :-------------------------:|:-------------------------: |
+| ![Bottled Drink](/images/drink.jpeg) | ![Bottled Drink 2](/images/drink2.jpeg) |
+
+
 
 <button name="buyButton" style="height:30px;width:200px;text-align: center" onclick="alert('Cheers!')">
 BUY NOW!
